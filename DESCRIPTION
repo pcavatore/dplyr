@@ -38,6 +38,7 @@ Collate:
     'all-equal.r'
     'bench-compare.r'
     'chain.r'
+    'cluster.R'
     'compute-collect.r'
     'copy-to.r'
     'data-hflights.r'
